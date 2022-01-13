@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandr!
+- 👋 Hi, I’m Alexandr!
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me: semashko1995@gmail.com
