@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aleksandr!
 - 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 📫 How to reach me: semashko1995@gmail.com
-- ✨ In this profile, I store my projects.
+- 🌱 I’m currently learning: HTML, CSS/Sass, JavaScript, React.js 🚀
+- 📫 How to reach me: semashko1995@gmail.com or alexandersemashko1995@yandex.ru
+- ✨ In this profile, I store my projects. 📚
 
 <!---
 Webs95/Webs95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
