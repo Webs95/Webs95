@@ -5,5 +5,5 @@
 
 ![](https://komarev.com/ghpvc/?username=Webs95)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webs95&hide=stars&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webs95&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
