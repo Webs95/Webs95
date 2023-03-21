@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
-  <img src="https://cn.rx.js.org/manual/asset/Rx_Logo_S.png" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
+  <img src="https://cn.rx.js.org/manual/asset/Rx_Logo_S.png" title="rxjs" alt="rxjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
