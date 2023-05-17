@@ -1,4 +1,11 @@
- ## 🌐 Socials:
+## 👨‍💻 Bio:  
+Frontend Developer | Web Developing Enthusiast
+
+Focused on HTML, CSS, JS, TS, Angular.
+
+Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for web development. With a strong focus on HTML, CSS, JavaScript, TypeScript, and Angular, I strive to create captivating and user-friendly web experiences. 
+
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Webs95#9706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandrsemashko/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webs95) 
 
 ## 📈 Stats:
