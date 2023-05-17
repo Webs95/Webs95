@@ -1,8 +1,6 @@
 ## 👨‍💻 Bio:  
 Frontend Developer | Web Developing Enthusiast
 
-Focused on HTML, CSS, JS, TS, Angular.
-
 Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for web development. With a strong focus on HTML, CSS, JavaScript, TypeScript, and Angular, I strive to create captivating and user-friendly web experiences. 
 
 ## 🌐 Socials:
