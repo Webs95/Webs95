@@ -11,7 +11,7 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webs95&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webs95&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webs95&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Webs95&hide_border=false)
   
