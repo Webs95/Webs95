@@ -7,7 +7,7 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Webs95#9706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandrsemashko/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/webs95) 
 
 ## 📈 Stats:
-![](https://komarev.com/ghpvc/?username=Webs95)
+<!-- ![](https://komarev.com/ghpvc/?username=Webs95) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webs95&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   
