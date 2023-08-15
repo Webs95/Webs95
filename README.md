@@ -7,7 +7,8 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrsemashko/)
 
 ## 📈 Stats:
-![](https://komarev.com/ghpvc/?username=Webs95)
+![](https://komarev.com/ghpvc/?username=Webs95)  
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19751%26project%3D%26in%3D0)](https://codetime.dev)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webs95&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
   
