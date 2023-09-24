@@ -12,7 +12,7 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
 [![wakatime](https://wakatime.com/badge/user/c24e2e53-ec6d-45b9-a098-949b83e68c9e/project/8d80680b-df3a-4270-a9a1-e084e53daf9b.svg?style=for-the-badge)](https://wakatime.com/badge/user/c24e2e53-ec6d-45b9-a098-949b83e68c9e/project/8d80680b-df3a-4270-a9a1-e084e53daf9b)
 
 
-<img src="https://wakatime.com/share/@Webs95/c5d25e75-de61-4783-bfa4-cb12872ba2d1.svg" alt="Пример изображения" width="600" height="400">
+<img src="https://wakatime.com/share/@Webs95/c5d25e75-de61-4783-bfa4-cb12872ba2d1.svg" alt="timetracker" width="600" height="400">
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webs95&hide=stars&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
