@@ -39,5 +39,9 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Webs95&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
+## 🎓 Codewars Stats:  
+  <img src="https://www.codewars.com/users/Webs95/badges/large" title="codewars" alt="codewars">
