@@ -31,6 +31,7 @@ Welcome to my profile! I'm Aleksandr, a frontend developer with a passion for we
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://cn.rx.js.org/manual/asset/Rx_Logo_S.png" title="rxjs" alt="rxjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ngrx/ngrx-original.svg" title="ngrx" alt="ngrx" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="ionic" alt="ionic" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebas" alt="firebas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" alt="nestjs" width="40" height="40"/>&nbsp;
